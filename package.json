@@ -1,5 +1,5 @@
 {
-  "name": "shape-tracker",
+  "name": "functional-plant",
   "eslintConfig": {
     "env": {
       "es6": true
