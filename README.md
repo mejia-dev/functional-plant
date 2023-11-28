@@ -1,6 +1,6 @@
-# HTML/CSS/JS Project Template (Application Name)
+# Functional Plant Example
 
-#### (Brief Description of Application)
+#### Sample project from: https://full-time.learnhowtoprogram.com/react/functional-programming-with-javascript/building-a-functional-application-part-1
 
 #### By github.com/mejia-dev
 
